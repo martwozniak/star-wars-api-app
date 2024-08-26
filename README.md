@@ -10,12 +10,17 @@ This React Native application allows users to browse and explore information abo
    - Includes a search functionality to filter movies
    - Shows loading state while fetching data
    - Handles and displays errors if they occur
+![movie_list_screen](./docs/1.png)
 
 2. **Movie Details Screen**
    - Presents detailed information about a selected movie
    - Displays grids of related entities (characters, planets, starships, vehicles, and species)
    - Shows images for entities when available
    - Implements a loading view while fetching additional details
+![movie_list_screen_2](./docs/2.png)
+![movie_list_screen_3](./docs/3.png)
+![movie_list_screen_4](./docs/4.png)
+![movie_list_screen_5](./docs/5.png)
 
 3. **Navigation**
    - Utilizes React Navigation for smooth transitions between screens
